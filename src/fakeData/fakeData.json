@@ -1,4 +1,4 @@
-var fakeData = [{ "id": 1, "img": "https://www.theindependentbd.com/assets/news_images/Digital-marketing2.jpg", "name": "Business Development The Complete Digital Marketing Course for Local Businesses", "deadline": "7/30/2020", "duration": "235 Hour", "instructor": "Grenville Poncet", "price": 283 },
+[{ "id": 1, "img": "https://www.theindependentbd.com/assets/news_images/Digital-marketing2.jpg", "name": "Business Development The Complete Digital Marketing Course for Local Businesses", "deadline": "7/30/2020", "duration": "235 Hour", "instructor": "Grenville Poncet", "price": 283 },
 
 { "id": 2, "img": "https://i.ytimg.com/vi/sF_jSrBhdlg/maxresdefault.jpg", "name": "Learn Photoshop From Scratch - A Beginner's Guide", "deadline": "1/13/2020", "duration": "175 Hour", "instructor": "Vida Player", "price": 218 },
 
@@ -43,5 +43,3 @@ var fakeData = [{ "id": 1, "img": "https://www.theindependentbd.com/assets/news_
 
 
 { "id": 15, "img": "https://img-a.udemycdn.com/course/750x422/766348_7fa9_2.jpg", "name": "WordPress Basics: Learn WordPress in one hour!", "deadline": "6/19/2020", "duration": "274 Hour", "instructor": "Archambault Andreasson", "price": 214 }]
-
-export default fakeData;

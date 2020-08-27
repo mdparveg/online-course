@@ -1,0 +1,44 @@
+.items {
+    width: 30%;
+    margin: 10px;
+    overflow: hidden;
+    background: rgb(247, 235, 235);
+    border-radius: 8px;
+    height: 550px;
+    position: relative;
+}
+
+.items:hover {
+    box-shadow: 2px 2px 2px wheat;
+}
+
+.items button {
+    position: absolute;
+    bottom: 20px;
+    right: 70px;
+}
+
+.title {
+    color: #e20000;
+    ;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p small {
+    font-weight: 700;
+}
+
+.items img {
+    width: 100%;
+    opacity: .8;
+    transition: .5s;
+}
+
+.items:hover img {
+    transform: scale(1.2);
+    opacity: 1;
+}
